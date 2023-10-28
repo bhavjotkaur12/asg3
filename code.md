@@ -1,4 +1,8 @@
 ```
+//Code.cs- code to represent and evaluate arithmetic expression.
+// created by Bhavjot Kaur Pal - october 23, 2023
+// edited by Samay Sehgal - october 24, 2023
+
 using System;
 using System.Collections.Generic;
 
