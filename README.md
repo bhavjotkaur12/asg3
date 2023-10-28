@@ -1,3 +1,4 @@
+```
 using System;
 using System.Collections.Generic;
 
@@ -78,3 +79,4 @@ class Program
         Console.WriteLine("Result: " + result); // Output: Result: True
     }
 }
+```
