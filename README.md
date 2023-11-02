@@ -1,7 +1,6 @@
 ```
 // InterpreterPattern.cs: Code for interpretting boollean expressions using interpreter pattern
-// created by Samay Sehgal - October 22, 2023
-// Editted by Bhavjot Kaur Pal - October 23,2023
+// Created by Bhavjot Kaur Pal - October 23,2023
 
 using System;
 using System.Collections.Generic;
